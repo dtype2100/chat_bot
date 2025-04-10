@@ -1,3 +1,4 @@
+# gradio_chatbot/chatbot.py
 import gradio as gr
 
 def respond(message, history):
@@ -5,3 +6,4 @@ def respond(message, history):
 
 chatbot = gr.ChatInterface(fn=respond)
 chatbot.launch()
+
