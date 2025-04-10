@@ -4,3 +4,10 @@ uvicorn
 streamlit 
 requests
 huggingface-hub
+datasets
+transformers
+torch
+accelerate
+peft
+bitsandbytes
+gradio
