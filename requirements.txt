@@ -11,3 +11,5 @@ accelerate
 peft
 bitsandbytes
 gradio
+langchain
+langchain_community
