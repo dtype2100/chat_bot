@@ -13,3 +13,9 @@ bitsandbytes
 gradio
 langchain
 langchain_community
+sentence-transformers
+unstructured[all-docs]
+langchain_huggingface
+langchain-elasticsearch
+faiss-cpu
+#streamlit-chat
